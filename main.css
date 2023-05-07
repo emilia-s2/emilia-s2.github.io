@@ -3,7 +3,7 @@
 :root .container-3wLKDe {
   background: var(--background-primary);
 }
-/*
+
 :root .container-3wLKDe .mainCard-3KBsBI {
   background-color: var(--background-secondary);
 }
@@ -112,7 +112,6 @@
 :root .option-Tt7anD {
   background-color: var(--background-secondary-alt);
 }
-*/
 :root .categoryHeader-OpJ1Ly,
 :root .selected-3H3-RC {
   background-color: var(--background-tertiary);
